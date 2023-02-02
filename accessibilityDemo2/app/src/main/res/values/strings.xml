@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">支付宝查实名</string>
+    <string name="accessibility_service_description">支付宝自动查询转账人实名信息</string>
+</resources>

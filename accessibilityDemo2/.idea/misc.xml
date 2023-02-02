@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidKF/Android_APP_Poject/accessibilityDemo2/app/src/main/res/drawable/shape_circle_button.xml" value="0.253" />
+        <entry key="..\:/AndroidKF/Android_APP_Poject/accessibilityDemo2/app/src/main/res/drawable/shape_circle_button2.xml" value="0.253" />
+        <entry key="..\:/AndroidKF/Android_APP_Poject/accessibilityDemo2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidKF/Android_APP_Poject/accessibilityDemo2/app/src/main/res/layout/service_window.xml" value="0.3296875" />
+        <entry key="..\:/AndroidKF/Android_Core/accessibilityDemo2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25" />
+        <entry key="..\:/AndroidKF/Android_Core/accessibilityDemo2/app/src/main/res/drawable/shape_circle_button.xml" value="0.25" />
+        <entry key="..\:/AndroidKF/Android_Core/accessibilityDemo2/app/src/main/res/drawable/shape_circle_edittext.xml" value="0.25" />
+        <entry key="..\:/AndroidKF/Android_Core/accessibilityDemo2/app/src/main/res/layout/activity_main.xml" value="0.3296875" />
+        <entry key="..\:/AndroidKF/Android_Core/accessibilityDemo2/app/src/main/res/layout/service_window.xml" value="0.325" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
