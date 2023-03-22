@@ -5,3 +5,7 @@
 
 
 查实名新版无障碍 是由js所写，需要使用Autox.js打包，提供了对ZBF查实名主要的自动查询功能
+
+
+# 使用教程：
+https://note.youdao.com/s/tK6TNao
